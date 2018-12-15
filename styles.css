@@ -1,0 +1,23 @@
+body {
+background-image: url("http://bit.ly/2A1RhGB");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+}
+
+h1 {
+color: White;
+text-shadow: 14px 1px #ae7c7c;
+font-size: 150px;
+text-align: center;
+}
+
+p {
+color: #f8b500;
+text-shadow: 2px 2px #f5564e;
+font-size: 37px;
+font-weight: bold;
+text-align: center;
+font-style: oblique;
+}
